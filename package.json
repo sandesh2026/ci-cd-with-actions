@@ -1,10 +1,6 @@
 {
   "name": "sandesh2026/ci-cd-with-actions",
   "version": "0.1.0",
-}
-{
-  "name": "ci-cd-with-actions",
-  "version": "0.1.0",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
