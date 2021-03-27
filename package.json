@@ -1,4 +1,8 @@
 {
+  "name": "sandesh2026/ci-cd-with-actions",
+  "version": "0.1.0",
+}
+{
   "name": "ci-cd-with-actions",
   "version": "0.1.0",
   "private": false,
@@ -11,10 +15,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },
-  {
-  "name": "sandesh2026/ci-cd-with-actions",
-  "version": "0.1.0",
-  }
+
   "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
